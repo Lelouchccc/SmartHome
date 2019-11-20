@@ -1,0 +1,2 @@
+# SmartHome
+Guidance teacher: Ruchun Wen ; Shuren Han. Aim:1.Use smoke sensor and temperature and humidity sensor to obtain environment parameters;        2.Use STM32 to control function modules;        3.Connect controller and server by GPRS module;        4.Networking based on ZigBee;        5.Program android application to achieve promote control;        6.Connect client and server based on TCP/IP;
